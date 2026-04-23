@@ -1,5 +1,9 @@
 # kemochange
 (keuangan money changer)
+
+## Link clickup
+https://app.clickup.com/90182514525/v/s/901810128547
+
 ## Keterangan
 masih dalam proses pengembangan sehingga masih terdapat bug sistem
 ## landing page
